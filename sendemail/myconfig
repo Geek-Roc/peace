@@ -1,0 +1,6 @@
+[email]
+username = xxxx@163.com
+passwd = ddd
+smtp = smtp.163.com
+imap = imap.163.com
+pop3 = pop.163.com
